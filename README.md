@@ -1,4 +1,4 @@
-# SSH-Uptate-Upgrade-Autoremove-Script
+# Bash-Uptate-Upgrade-Autoremove-Script
 Uptate/Upgrade/Autoremove Script for use in SSH in Debian an based OS.
 
 echo             = the informational text.
